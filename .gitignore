@@ -1,0 +1,9 @@
+# dependencies
+/vendor
+/.idea
+/static
+/SweetBabyScan
+/SbScan
+/SbScanMacAmd64
+/SbScanMacArm64
+/readme-local.md
